@@ -15,7 +15,7 @@ This script will, based on the flag provided, either install all programs in the
 
 ### Installing
 
-* Download the latest [release]() or clone the repo
+* Download the latest [release](https://github.com/DomPizzie/Windows-Bootstrap/releases) or clone the repo
 * Make sure all executable files are in the **appInstalls** folder
 * Update **hostinfo.txt**
 
