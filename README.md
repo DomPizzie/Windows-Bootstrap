@@ -43,6 +43,9 @@ Dominique Pizzie
 
 ## Version History
 
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change](https://github.com/DomPizzie/Windows-Bootstrap/commit/271a289cc5ef2c587168234702065065a339ec1f) for full details
 * 0.1
     * Initial Release
 
