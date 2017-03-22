@@ -1,6 +1,6 @@
 # Windows-Bootstrap
 
-This is a simple Powershell script to automate the installation of programs and the setup Windows environment for a fresh install.
+This is a simple Powershell script to automate the installation of programs and the Windows environment for a fresh install.
 
 ## Description
 
