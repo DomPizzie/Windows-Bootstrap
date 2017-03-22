@@ -1,8 +1,8 @@
 <#
 
     .SYNOPSIS
-    This is a simple Powershell script to automate the installation of programs and the setup Windows environment for a fresh install.
-
+    This is a simple Powershell script to automate the installation of programs and the Windows environment for a fresh install.
+    
     .DESCRIPTION
     This script will, based on the flag provided, either install all programs in the included directory and change certain registry settings, or update already installed software. It utilizes ninite, chocolatey, and boxstarter. You can modify what's installed by providing your own gist with boxstarter.
 
